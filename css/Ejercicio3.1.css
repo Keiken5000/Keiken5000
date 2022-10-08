@@ -1,0 +1,52 @@
+ table{
+
+	background: #DBD9D9;
+	border-collapse: collapse;
+}
+#red{
+    color: red;
+}
+#green{
+	color: green;
+}
+#yellow{
+	color:  yellow;
+}
+#blue{
+	color: blue;
+}
+#gray{
+	background: #8E8E8E;
+}
+#p0{
+	text-indent: 3em;
+}
+#p1{
+	text-indent: 9em;
+}
+#p2{
+	text-indent: 15em;
+}
+#p3{
+	text-indent: 21em;
+}
+td,th{
+	border: 1px solid black;
+	padding-left: 3px;
+	padding-right: 3px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+tfoot{
+	background: #8E8E8E;
+}
+#red1{
+	color: red;
+}
+#green1{
+	color: green;
+}
+#blue1{
+	color: blue;
+}
+

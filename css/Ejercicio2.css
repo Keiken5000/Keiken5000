@@ -1,0 +1,38 @@
+h1{
+	color: teal;
+}
+strong{
+
+	color: red;
+}
+span{
+	color: orange;
+}
+#texto{
+	color: blue;
+}
+#texto2{
+	color: red;
+}
+em{
+	color: blue;
+}
+#texto3{
+	color: purple;
+}
+#p0{
+	text-indent: 9em;
+}
+td,th{
+	border: 1px solid black;
+	padding-left: 3px;
+	padding-right: 3px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+#g{
+	color: green;
+}
+table{
+	border-collapse: collapse;
+}
